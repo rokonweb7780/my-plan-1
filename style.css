@@ -1,0 +1,38 @@
+
+
+/* General body style */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Section heading */
+h2 {
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* Home section with gradient background */
+#home {
+  background: linear-gradient(135deg, #007bff, #0056b3);
+}
+
+/* Progress bar style */
+.progress {
+  height: 22px;
+  background-color: #ddd;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.progress-bar {
+  font-weight: bold;
+  line-height: 22px;
+}
+
+/* Button hover effect */
+button.btn-primary {
+  background-color: #
